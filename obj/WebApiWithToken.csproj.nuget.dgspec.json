@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiWithToken/WebApiWithToken.csproj": {}
+    "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiCore1/WebApiWithToken.csproj": {}
   },
   "projects": {
-    "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiWithToken/WebApiWithToken.csproj": {
+    "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiCore1/WebApiWithToken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiWithToken/WebApiWithToken.csproj",
+        "projectUniqueName": "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiCore1/WebApiWithToken.csproj",
         "projectName": "WebApiWithToken",
-        "projectPath": "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiWithToken/WebApiWithToken.csproj",
+        "projectPath": "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiCore1/WebApiWithToken.csproj",
         "packagesPath": "/Users/mohsenmohebi/.nuget/packages/",
-        "outputPath": "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiWithToken/obj/",
+        "outputPath": "/Users/mohsenmohebi/projects/Dotnet/WebApi/WebApiCore1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mohsenmohebi/.nuget/NuGet/NuGet.Config"
